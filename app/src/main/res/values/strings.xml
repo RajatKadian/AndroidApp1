@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week2App</string>
+    <string name="txtTitle">Bruschetta recipe</string>
+    <string name="txtImage">an Image</string>
+    <string name="btnClick">View the recipe</string>
+    <string name="txtIngredient">ingredient</string>
+    <string name="txtDirection">direction</string>
+    <string name="txtitem1">tomatoes</string>
+    <string name="txtItem2">Basil leaves</string>
+    <string name="txtDir">Mix all the ingredients</string>
+</resources>
